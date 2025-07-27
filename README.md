@@ -4,7 +4,7 @@ This is an Xbox 360 tool to patch a buffer overflow in **CG_RegisterItems**.
 Thankfully, without a bypass, this exploit **DOES NOT WORK** on retail consoles. \
 All it can do is trigger a stack protection and freeze the console.
 
-JRPC/XDevkit.dll are provided in the compiled release!
+JRPC.dll and XDevkit.dll are provided in the compiled release!
 
 ## The Exploit:
 
