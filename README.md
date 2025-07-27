@@ -41,7 +41,7 @@ bctrl
 
 ; Check the length of the input buffer.
 cmplwi cr6, r3, 256 ; Our buffer size is 256
-bge cr6, jBadCall
+bge cr6, jBadCall ; Branch away if the length of the input buffer is too large.
 
 ; Get us ready to jump back to the game
 mr r3, r31
