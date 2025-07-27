@@ -1,4 +1,4 @@
-# CG_RegisterItems-RCE-Patch
+# CG_RegisterItems-RCE-Patch (BO2)
 ### \*FOR JTAG/RGH/BAD-UPDATE ONLY!*
 
 This is an Xbox 360 tool to patch a buffer overflow in **CG_RegisterItems**.
